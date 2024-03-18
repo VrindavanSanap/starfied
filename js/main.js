@@ -1,4 +1,3 @@
-var stars = []
 var n_stars = 100
 let speed = 5
 let starField
